@@ -5,7 +5,7 @@
 -- Dumped from database version 17.2
 -- Dumped by pg_dump version 17.0
 
--- Started on 2025-02-13 16:03:01
+-- Started on 2025-02-13 21:57:37
 
 SET statement_timeout = 0;
 SET lock_timeout = 0;
@@ -534,7 +534,7 @@ ALTER DEFAULT PRIVILEGES FOR ROLE cloud_admin IN SCHEMA public GRANT ALL ON SEQU
 ALTER DEFAULT PRIVILEGES FOR ROLE cloud_admin IN SCHEMA public GRANT ALL ON TABLES TO neon_superuser WITH GRANT OPTION;
 
 
--- Completed on 2025-02-13 16:03:21
+-- Completed on 2025-02-13 21:57:52
 
 --
 -- PostgreSQL database dump complete
